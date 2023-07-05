@@ -22,3 +22,4 @@
 8. https://autonomousvision.github.io/transfuser/
 9. https://ap229997.github.io/projects/transfuser/
 10. https://arxiv.org/pdf/2104.09224.pdf
+11. https://developer.nvidia.com/blog/drive-labs-eliminating-collisions-with-safety-force-field/?ncid=so-yout-28994#cid=organicSocial_en-us_YouTube_Automotive-DRIVE-Missions-AV07
