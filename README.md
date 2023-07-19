@@ -38,6 +38,13 @@ https://github.com/yudhisteer/Visual-Fusion-with-LiDAR-and-Stereo-Camera/assets/
 9. https://ap229997.github.io/projects/transfuser/
 10. https://arxiv.org/pdf/2104.09224.pdf
 11. https://developer.nvidia.com/blog/drive-labs-eliminating-collisions-with-safety-force-field/?ncid=so-yout-28994#cid=organicSocial_en-us_YouTube_Automotive-DRIVE-Missions-AV07
-12. https://www.youtube.com/watch?v=iSAU3plRnJk&ab_channel=DeepLearningForAutonomousDrivingWorkshops
-13. https://www.programmersought.com/article/70391490094/
-14. https://www.udacity.com/blog/2021/01/how-sensor-fusion-works.html
+12. https://www.programmersought.com/article/70391490094/
+13. https://www.udacity.com/blog/2021/01/how-sensor-fusion-works.html
+14. https://www.aptiv.com/en/insights/article/what-is-sensor-fusion
+15. https://www.aptiv.com/en/insights/article/smarter-safety-through-interior-and-exterior-sensor-fusion
+16. https://www.aptiv.com/en/insights/article/cto-blog-why-a-half-second-makes-all-the-difference
+17. https://appen.com/blog/what-is-sensor-fusion/
+18. https://blog.richardvanhooijdonk.com/en/sensor-fusion-next-gen-autonomous-vehicles-could-function-in-all-weather-conditions/
+19. https://www.automotive-iq.com/autonomous-drive/articles/sensor-fusion-technical-challenges-for-level-4-5-self-driving-vehicles
+20. https://repository.lboro.ac.uk/articles/preprint/Fusion_of_LiDAR_and_camera_sensor_data_for_environment_sensing_in_driverless_vehicles/9466361
+21. 
