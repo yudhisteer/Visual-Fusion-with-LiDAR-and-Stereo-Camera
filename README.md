@@ -40,3 +40,4 @@ https://github.com/yudhisteer/Visual-Fusion-with-LiDAR-and-Stereo-Camera/assets/
 11. https://developer.nvidia.com/blog/drive-labs-eliminating-collisions-with-safety-force-field/?ncid=so-yout-28994#cid=organicSocial_en-us_YouTube_Automotive-DRIVE-Missions-AV07
 12. https://www.youtube.com/watch?v=iSAU3plRnJk&ab_channel=DeepLearningForAutonomousDrivingWorkshops
 13. https://www.programmersought.com/article/70391490094/
+14. https://www.udacity.com/blog/2021/01/how-sensor-fusion-works.html
